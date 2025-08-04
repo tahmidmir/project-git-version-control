@@ -1,0 +1,7 @@
+👋 Hello from the dev branch!
+
+This file proves that branching works like magic 🪄
+
+🌱 Branch: dev
+📦 Created during Module 1 Git project
+📅 Tue Aug  5 00:18:08 BST 2025
