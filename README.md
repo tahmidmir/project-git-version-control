@@ -3,7 +3,20 @@
 > A clean demonstration of **Git version control** fundamentals  
 > 📦 *Initialization* | 🌿 *Branching* | 🔄 *Commits* | 🔀 *Merging* | 📥 *Pull Requests*
 
+# Hi there 👋 I'm Mir Tahmid 
 
+🎓 Learning Git & GitHub fundamentals  
+🚀 Building clean, collaborative workflows  
+🌱 Passionate about DevOps, Web Dev, and Automation  
+
+### 🔧 Skills
+- Git & Version Control
+- Command Line Mastery
+- Clean Code Practices
+
+### 📂 Recent Projects
+- [Git Workflow Demo](https://github.com/tahmidmir/project-git-version-control)
+  
 ## 📝 Project Overview
 
 This repository was created to practice the essential skills of version control using Git and GitHub.
@@ -27,12 +40,14 @@ This repository was created to practice the essential skills of version control 
 | 🔹 5 | Opened a Pull Request |
 | 🔹 6 | Merged `dev` → `main` via GitHub |
 
----
+
 
 ## 📂 Repository Structure
 
 project-git-version-control/
+
 ├── README.md
+
 └── hello.txt
 
 🏷️ Tags
