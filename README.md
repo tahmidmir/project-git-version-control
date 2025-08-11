@@ -1,6 +1,5 @@
 # 🌿 Git & GitHub Mastery Project
 ![Actions](https://github.com/tahmidmir/project-git-version-control/actions/workflows/read-hello.yml/badge.svg)
-![License](https://img.shields.io/github/license/tahmidmir/project-git-version-control?color=blue)
 
 > A clean demonstration of **Git version control** fundamentals:  
 > 📦 Initialization | 🌿 Branching | 🔄 Commits | 🔀 Merging | 📥 Pull Requests
